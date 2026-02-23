@@ -5,7 +5,7 @@ This project was developed as a rapid prototype to demonstrate full-stack archit
 
 ---
 
-## 🚀 Features Implemented
+## Features Implemented
 
 ### Authentication & Users
 - User registration & login
@@ -43,7 +43,7 @@ This project was developed as a rapid prototype to demonstrate full-stack archit
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### Backend
 ```
@@ -72,7 +72,7 @@ The architecture follows a clear separation of concerns:
 
 ---
 
-## 🔐 Authentication Flow
+## Authentication Flow
 
 1. User logs in
 2. Server validates credentials
@@ -82,7 +82,7 @@ The architecture follows a clear separation of concerns:
 
 ---
 
-## ☁️ Media Upload Flow
+## Media Upload Flow
 
 1. Frontend sends file via form-data
 2. Multer processes file
@@ -92,17 +92,7 @@ The architecture follows a clear separation of concerns:
 
 ---
 
-## 🧪 Future Improvements
-
-- Real-time messaging using WebSockets (Socket.io)
-- Notification system
-- Email alerts
-- Pagination & performance optimization
-- Production deployment configuration
-
----
-
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Backend
 
@@ -133,7 +123,7 @@ npm run dev
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates:
 - Full-stack MERN architecture
@@ -144,6 +134,6 @@ This project demonstrates:
 
 ---
 
-## 📌 Notes
+## Notes
 
 Messaging and notifications modules are structured at the schema level and are planned for real-time implementation in future iterations.
